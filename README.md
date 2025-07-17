@@ -64,6 +64,8 @@ Bangalore |         1        |    4.5     |       3.0
 *Using clustering for zone-based grouping
 
 Output:
-<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/a9c25620-b7da-4a14-b15d-1861a66d78c6" />
-<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/190389eb-d23c-4b6c-909e-ed3bf25a3bf6" />
 <img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/20931c91-9346-40fe-9789-81fa10daad35" />
+
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/a9c25620-b7da-4a14-b15d-1861a66d78c6" />
+
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/190389eb-d23c-4b6c-909e-ed3bf25a3bf6" />
